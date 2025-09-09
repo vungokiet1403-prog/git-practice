@@ -1,2 +1,1 @@
-# Git practice
-Giới thiệu: Tôi là Vũ Ngô Kiệt, MSSV < 223047 >
+Day la README tu nhanh colfict-demo.
